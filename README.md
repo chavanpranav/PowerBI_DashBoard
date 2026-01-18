@@ -5,14 +5,14 @@
 
 ---
 
-## Project Description
+## 📊 Project Description
 
 This Power BI dashboard provides a comprehensive visualization of sales and profit data for a Superstore. The data has been analyzed across various dimensions such as Region, Segment, Category, Shipping Mode, and Order Date.
 
 ---
 
 
-## Dataset
+## 📁 Dataset
 
 - File: `4superstore.xlsx`
 - The dataset includes:
@@ -26,7 +26,7 @@ This Power BI dashboard provides a comprehensive visualization of sales and prof
 
 ---
 
-## Dashboard Highlights
+## 📈 Dashboard Highlights
 
 - Total Sales: 2.30M
 - Total Profit: 286.40K
